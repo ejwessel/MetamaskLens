@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "7b147154-3980-45bd-8235-1c85e54d0bad",
     "document_id": "8_WsjBS1b85O4Rsmks28",
     "original_document_id": "8_WsjBS1b85O4Rsmks28",
     "version": "23",
-    "lastChanged": "1585251291976",
+    "lastChanged": "1585256632348",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -30,7 +30,7 @@
             "collapsedList": [
                 [
                     [
-                        "Behavior"
+                        "Credit Alpha"
                     ],
                     [
                         "Metamask"
@@ -286,9 +286,9 @@
                     "flags": "0"
                 },
                 {
-                    "resId": "21",
-                    "uid": "1585251003114292:11734",
-                    "name": "Files\/File21.js",
+                    "resId": "22",
+                    "uid": "1585252602301285:64213",
+                    "name": "Files\/File22.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -449,8 +449,8 @@
                     "v": "Files\/File20.oprfb"
                 },
                 {
-                    "k": "21",
-                    "v": "Files\/File21.js"
+                    "k": "22",
+                    "v": "Files\/File22.js"
                 }
             ]
         },
@@ -477,31 +477,31 @@
                     },
                     {
                         "k": "4",
-                        "v": "..\/AdditionalFiles\/model\/Materials"
+                        "v": "..\/AdditionalFiles\/Metamask\/Materials"
                     },
                     {
                         "k": "5",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat18.lsmat"
+                        "v": "..\/AdditionalFiles\/Metamask\/Materials\/mat18.lsmat"
                     },
                     {
                         "k": "6",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat21.lsmat"
+                        "v": "..\/AdditionalFiles\/Metamask\/Materials\/mat21.lsmat"
                     },
                     {
                         "k": "7",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat13.lsmat"
+                        "v": "..\/AdditionalFiles\/Metamask\/Materials\/mat13.lsmat"
                     },
                     {
                         "k": "8",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat20.lsmat"
+                        "v": "..\/AdditionalFiles\/Metamask\/Materials\/mat20.lsmat"
                     },
                     {
                         "k": "9",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/mat23.lsmat"
+                        "v": "..\/AdditionalFiles\/Metamask\/Materials\/mat23.lsmat"
                     },
                     {
-                        "k": "10",
-                        "v": "Behavior.js"
+                        "k": "11",
+                        "v": "Credit Alpha.js"
                     }
                 ],
                 "hashes": [
@@ -540,46 +540,50 @@
                     {
                         "k": "10",
                         "v": "b135f6a9cefe77e6bd518dc014fd6257"
+                    },
+                    {
+                        "k": "11",
+                        "v": "9ac614f818a303c7a121a409aa3cc579"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-03-26T15:30:03",
+                        "lastModified": "2020-03-26T17:01:52",
                         "name": "Public",
-                        "hash": "c568b7664bac900a8f9e863aa72dabbe",
+                        "hash": "1a4b371e6d108c6f3a559571b259e0b9",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:52",
+                                "lastModified": "2020-03-26T15:55:18",
                                 "name": "echopark_diff.png",
                                 "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2018-05-16T18:47:16",
+                                "lastModified": "2020-03-26T15:55:18",
                                 "name": "Metamask.obj",
                                 "hash": "1ef52bb493a3f6f533b48097710aae2e",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:52",
+                                "lastModified": "2020-03-26T15:55:18",
                                 "name": "echopark_spec.png",
                                 "hash": "8e599835d0d45c5879eafb1f474469cd",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-26T15:30:03",
-                                "name": "Behavior.js",
-                                "hash": "b135f6a9cefe77e6bd518dc014fd6257",
+                                "lastModified": "2020-03-26T17:01:51",
+                                "name": "Credit Alpha.js",
+                                "hash": "9ac614f818a303c7a121a409aa3cc579",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:47",
+                                "lastModified": "2020-03-26T15:55:20",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -880,16 +884,16 @@
                         ]
                     },
                     {
-                        "name": "Behavior",
+                        "name": "Credit Alpha",
                         "type": "4",
                         "subtype": "0",
-                        "resourceId": "21",
+                        "resourceId": "22",
                         "dependency": "0",
-                        "uid": "1585251003114292:11734",
-                        "fileId": "21",
+                        "uid": "1585252602301285:64213",
+                        "fileId": "22",
                         "originalId": "18446744073709551615",
-                        "publicId": "10",
-                        "source": "\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-hwDXwT\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "publicId": "11",
+                        "source": "\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-SZUlVG\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
                     }
                 ]
