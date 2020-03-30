@@ -3,7 +3,7 @@
     "document_id": "8_WsjBS1b85O4Rsmks28",
     "original_document_id": "8_WsjBS1b85O4Rsmks28",
     "version": "23",
-    "lastChanged": "1585452255779",
+    "lastChanged": "1585529229929",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -232,7 +232,8 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1585249635790991:2460"
+                    "1585249635790991:2460",
+                    "1585450029331858:25303"
                 ]
             ]
         },
@@ -1024,7 +1025,7 @@
                     },
                     {
                         "k": "11",
-                        "v": "9ac614f818a303c7a121a409aa3cc579"
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
                     },
                     {
                         "k": "46",
@@ -1078,9 +1079,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-03-28T22:47:09",
+                        "lastModified": "2020-03-29T20:46:40",
                         "name": "Public",
-                        "hash": "229ef631604083629d1a84ce8dfbbf17",
+                        "hash": "8d4b885136882d4cd4d0f64c4d7fca47",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -1112,9 +1113,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-26T17:01:51",
+                                "lastModified": "2020-03-29T20:46:40",
                                 "name": "Credit Alpha.js",
-                                "hash": "9ac614f818a303c7a121a409aa3cc579",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
                             },
                             {
@@ -1812,8 +1813,13 @@
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1585450029331858:25303"
+                "resources": [
+                    {
+                        "uid": "1585252602301285:64213",
+                        "path_list": [
+                            "Credit Alpha"
+                        ]
+                    }
                 ]
             }
         },
